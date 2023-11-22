@@ -1,5 +1,4 @@
 # apne-collgedemo
 this is my first git project 
 <br/>
-author name-sanjeet anad
-cd c
+Author name-sanjeet
